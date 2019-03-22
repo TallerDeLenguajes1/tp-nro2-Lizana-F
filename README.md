@@ -1,3 +1,3 @@
-# tp-nro2-Lizana-F
-tp-nro2-Lizana-F created by GitHub Classroom
+# tp-nro2-Lizana-Franco
+tp-nro2-Lizana-Franco created by GitHub Classroom
 
