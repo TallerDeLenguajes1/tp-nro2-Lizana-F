@@ -1,0 +1,2 @@
+2_
+	f) el archivo tp2_1_2.cpp no se ve en la rama "master" ya que las ramas en git sirve para separar y tener un mejor control y orden de archivos a la hora de trabajar con varios archivos
